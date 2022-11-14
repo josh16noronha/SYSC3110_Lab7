@@ -9,4 +9,6 @@ public class ResidentialSite extends Site{
         return base + tax;
 
     }
+
+
 }
